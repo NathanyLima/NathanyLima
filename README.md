@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, me chamo Nathany, tenho 22 anos e estou cursando análise e desenvolvimento de sistemas.
 
 <!--
 **NathanyLima/NathanyLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
