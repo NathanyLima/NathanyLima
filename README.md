@@ -1,4 +1,4 @@
-## Olá, me chamo Nathany, tenho 22 anos e estou cursando análise e desenvolvimento de sistemas.
+## Olá, me chamo Nathany, tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas na FATEC de Presidente Prudente.
 
 <!--
 **NathanyLima/NathanyLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
