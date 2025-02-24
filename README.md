@@ -1,3 +1,5 @@
+Olá! me chamo Nathany de Lima Souza, um desenvolvedora apaixonada por criar soluções digitais. Tenho experiência em diversas tecnologias como HTML, CSS, JavaScript, e frameworks como React e Node.js. Meu objetivo é sempre aprender e desenvolver habilidades para criar produtos que ajudem as pessoas.
+
 <div>
 <a href="mailto:nathanydeeliimaasouza@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
