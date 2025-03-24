@@ -1,4 +1,4 @@
-![Plano de fundo](https://i.imgur.com/Jr2v6pT.jpg)
+![Plano de fundo](https://i.imgur.com/undefined.jpg)
  
 Olá! Seja muito bem-vindo(a) ao meu perfil 💜
 Me chamo Nathany, um desenvolvedora apaixonada por criar soluções digitais. 💜💻 Tenho experiência em diversas tecnologias como HTML, CSS, JavaScript, e frameworks como React e Node.js. Meu objetivo é sempre aprender e desenvolver habilidades para criar produtos que ajudem as pessoas. 💜
